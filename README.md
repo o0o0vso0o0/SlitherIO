@@ -1,2 +1,1 @@
-# hello-world
-Hello world new project template.
+cocoscreator v2.0.3
