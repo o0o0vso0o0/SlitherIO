@@ -1,0 +1,42 @@
+{
+  "appKey": "EB5DD4FF-E28F-2294-24D5-E143108198A1",
+  "appSecret": "d5d15eaf14376057afc6ae1edbf4549f",
+  "encryptJs": true,
+  "excludeScenes": [
+    "a8e004bb-3c3e-4e02-9daf-5f0102acfae2"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": true,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "http://pay.anysdk.com/v5/Order/getOrderId/",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "privateKey": "16BB34C5FE1421BED132CBE7FCF76AA1",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "startScene": "742d9920-3a00-4f1e-a86a-1ce206e682e7",
+  "title": "slitherio",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "498ef3ef-528c-41",
+  "zipCompressJs": true
+}
