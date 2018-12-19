@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "editbox",
+    "texture": "d30f2f05-2413-4bf6-bc42-ea84feb0edda",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
